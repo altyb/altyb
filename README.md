@@ -20,7 +20,7 @@
 ◆ Advocate for **AI-assisted development** to streamline workflows and enhance productivity.
 
 <div align="center">
-  <a href="https://github.com/Altayeb">
+  <a href="https://github.com/altyb">
     <img src="https://img.shields.io/github/followers/Altayeb?style=for-the-badge&logo=github&color=ff79c6&labelColor=282a36&logoColor=white" alt="GitHub followers">
   </a>
   <a href="#">
