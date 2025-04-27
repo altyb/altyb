@@ -88,8 +88,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-    &nbsp;&nbsp;
-    <img 
+ 
 
   <h3>AI & Prompt Engineering</h3>
   <div>
