@@ -238,6 +238,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://altyb.netlify.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontAlignY=40" width="100%" alt="footer animation"/>
-</div>
+<img src="https://altyb.netlify.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontAlignY=40" width="100%" alt="footer animation"/>
