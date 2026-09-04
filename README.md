@@ -25,8 +25,8 @@ shipping it.
   hold as a team grows.
 - **Mobile** — Flutter for Android and iOS: camera, on-device computer vision with OpenCV in Dart,
   NFC, offline-first storage, signed store releases.
-- **The parts nobody sees** — multi-tenant architecture, idempotent payments, background jobs and
-  retries, schema migrations, deploys that roll back.
+- **The parts nobody sees** — multi-tenant architecture, idempotent payments, queued background
+  jobs and retry ladders, webhooks and realtime updates, schema migrations, deploys that roll back.
 
 ## Selected work
 
@@ -49,13 +49,21 @@ wired.
 
 <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vue-1E1E1E?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"> <img src="https://img.shields.io/badge/Nuxt-1E1E1E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt"> <img src="https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Astro-1E1E1E?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"> <img src="https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
 
-**Backend & Mobile**
+**Mobile**
 
-<img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Bun-1E1E1E?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"> <img src="https://img.shields.io/badge/Flutter-1E1E1E?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/OpenCV-1E1E1E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/Flutter-1E1E1E?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/OpenCV-1E1E1E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/NFC-1E1E1E?style=for-the-badge&logo=nfc&logoColor=white" alt="NFC"> <img src="https://img.shields.io/badge/Offline--first-1E1E1E?style=for-the-badge" alt="Offline-first">
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Bun-1E1E1E?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"> <img src="https://img.shields.io/badge/Better%20Auth-1E1E1E?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth"> <img src="https://img.shields.io/badge/BullMQ-1E1E1E?style=for-the-badge" alt="BullMQ"> <img src="https://img.shields.io/badge/REST%20APIs-1E1E1E?style=for-the-badge" alt="REST APIs">
+
+**Realtime & networking**
+
+<img src="https://img.shields.io/badge/WebSockets-1E1E1E?style=for-the-badge" alt="WebSockets"> <img src="https://img.shields.io/badge/Webhooks-1E1E1E?style=for-the-badge" alt="Webhooks"> <img src="https://img.shields.io/badge/Background%20jobs-1E1E1E?style=for-the-badge" alt="Background jobs"> <img src="https://img.shields.io/badge/Queues-1E1E1E?style=for-the-badge" alt="Queues">
 
 **Data**
 
-<img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-1E1E1E?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Firebase-1E1E1E?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Redis-1E1E1E?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Firebase-1E1E1E?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 
 **Operations**
 
