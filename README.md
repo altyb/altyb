@@ -35,6 +35,12 @@ Every filter, sort and page lives in the URL, so a filtered view is a link you c
 One request per title page instead of eight. Bilingual English and Arabic, switching language
 refetches in place rather than reloading. React · TypeScript · Vite · TanStack Query.
 
+**[Shoebill](https://github.com/altyb/shoebill)** — private video player for Android, built on mpv, with
+an encrypted vault for videos and photos. Kotlin · Jetpack Compose.
+
+**[Hudhud](https://github.com/altyb/hudhud)** — private keyboard for Android with offline glide typing and
+no internet permission. English, Arabic and five more languages. Kotlin.
+
 Most of my work is client software under agreement — written up at
 **[altayeb.dev](https://altayeb.dev)**, at the level of what it guarantees rather than how it is
 wired.
