@@ -38,8 +38,12 @@ refetches in place rather than reloading. React · TypeScript · Vite · TanStac
 **[Shoebill](https://github.com/altyb/shoebill)** — private video player for Android, built on mpv, with
 an encrypted vault for videos and photos. Kotlin · Jetpack Compose.
 
+<a href="https://github.com/altyb/hudhud"><img src="https://raw.githubusercontent.com/altyb/hudhud/main/docs/logo.png" width="72" align="left" alt="Hudhud"></a>
+
 **[Hudhud](https://github.com/altyb/hudhud)** — private keyboard for Android with offline glide typing and
 no internet permission. English, Arabic and five more languages. Kotlin.
+
+<br clear="left">
 
 Most of my work is client software under agreement — written up at
 **[altayeb.dev](https://altayeb.dev)**, at the level of what it guarantees rather than how it is
