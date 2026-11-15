@@ -45,6 +45,19 @@ Most of my work is client software under agreement — written up at
 **[altayeb.dev](https://altayeb.dev)**, at the level of what it guarantees rather than how it is
 wired.
 
+## Where I'm strongest
+
+- **Backends in Go and Rust on PostgreSQL** — schema design, migrations, constraints that keep data
+  correct, and queries that stay fast as tables grow.
+- **Auth and permissions** — sessions, 2FA, roles, API keys, and tenant isolation, so one customer
+  never sees another's data.
+- **Business logic** — money, orders, balances and state machines, written so a retry or a double
+  click can't charge twice.
+- **Scaling** — queues and retries, caching, connection pooling, and load testing before launch.
+- **Linux and infrastructure** — servers, Docker, reverse proxies and ingress (Traefik, Nginx), TLS,
+  CI/CD, backups and monitoring.
+- **Front end** — Nuxt, React and Astro, with GSAP for motion.
+
 ## Stack
 
 **Languages**
@@ -53,7 +66,7 @@ wired.
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vue-1E1E1E?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"> <img src="https://img.shields.io/badge/Nuxt-1E1E1E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt"> <img src="https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Astro-1E1E1E?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"> <img src="https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+<img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vue-1E1E1E?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"> <img src="https://img.shields.io/badge/Nuxt-1E1E1E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt"> <img src="https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Astro-1E1E1E?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"> <img src="https://img.shields.io/badge/GSAP-1E1E1E?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"> <img src="https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
 
 **Mobile**
 
@@ -61,7 +74,7 @@ wired.
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Bun-1E1E1E?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"> <img src="https://img.shields.io/badge/Better%20Auth-1E1E1E?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth"> <img src="https://img.shields.io/badge/BullMQ-1E1E1E?style=for-the-badge" alt="BullMQ"> <img src="https://img.shields.io/badge/REST%20APIs-1E1E1E?style=for-the-badge" alt="REST APIs">
+<img src="https://img.shields.io/badge/Go-1E1E1E?style=for-the-badge&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Rust-1E1E1E?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"> <img src="https://img.shields.io/badge/Auth%20%26%20permissions-1E1E1E?style=for-the-badge" alt="Auth and permissions"> <img src="https://img.shields.io/badge/Multi--tenant-1E1E1E?style=for-the-badge" alt="Multi-tenant"> <img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Bun-1E1E1E?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"> <img src="https://img.shields.io/badge/Better%20Auth-1E1E1E?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth"> <img src="https://img.shields.io/badge/BullMQ-1E1E1E?style=for-the-badge" alt="BullMQ"> <img src="https://img.shields.io/badge/REST%20APIs-1E1E1E?style=for-the-badge" alt="REST APIs">
 
 **Realtime & networking**
 
@@ -73,7 +86,7 @@ wired.
 
 **Operations**
 
-<img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Caddy-1E1E1E?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy"> <img src="https://img.shields.io/badge/Cloudflare-1E1E1E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Sentry-1E1E1E?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
+<img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Traefik-1E1E1E?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"> <img src="https://img.shields.io/badge/Nginx-1E1E1E?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/Caddy-1E1E1E?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy"> <img src="https://img.shields.io/badge/Cloudflare-1E1E1E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Sentry-1E1E1E?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
 
 ---
 
