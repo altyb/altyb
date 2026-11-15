@@ -54,6 +54,8 @@ wired.
 - **Business logic** — money, orders, balances and state machines, written so a retry or a double
   click can't charge twice.
 - **Scaling** — queues and retries, caching, connection pooling, and load testing before launch.
+- **System architecture** — splitting a static client from its API, service boundaries, shared
+  databases and caches, and designs that hold up when a part fails and stay cheap to run.
 - **Linux and infrastructure** — servers, Docker, reverse proxies and ingress (Traefik, Nginx), TLS,
   CI/CD, backups and monitoring.
 - **Front end** — Nuxt, React and Astro, with GSAP for motion.
@@ -74,7 +76,7 @@ wired.
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Go-1E1E1E?style=for-the-badge&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Rust-1E1E1E?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"> <img src="https://img.shields.io/badge/Auth%20%26%20permissions-1E1E1E?style=for-the-badge" alt="Auth and permissions"> <img src="https://img.shields.io/badge/Multi--tenant-1E1E1E?style=for-the-badge" alt="Multi-tenant"> <img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Bun-1E1E1E?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"> <img src="https://img.shields.io/badge/Better%20Auth-1E1E1E?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth"> <img src="https://img.shields.io/badge/BullMQ-1E1E1E?style=for-the-badge" alt="BullMQ"> <img src="https://img.shields.io/badge/REST%20APIs-1E1E1E?style=for-the-badge" alt="REST APIs">
+<img src="https://img.shields.io/badge/System%20architecture-1E1E1E?style=for-the-badge" alt="System architecture"> <img src="https://img.shields.io/badge/Go-1E1E1E?style=for-the-badge&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Rust-1E1E1E?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"> <img src="https://img.shields.io/badge/Auth%20%26%20permissions-1E1E1E?style=for-the-badge" alt="Auth and permissions"> <img src="https://img.shields.io/badge/Multi--tenant-1E1E1E?style=for-the-badge" alt="Multi-tenant"> <img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Bun-1E1E1E?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"> <img src="https://img.shields.io/badge/Better%20Auth-1E1E1E?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth"> <img src="https://img.shields.io/badge/BullMQ-1E1E1E?style=for-the-badge" alt="BullMQ"> <img src="https://img.shields.io/badge/REST%20APIs-1E1E1E?style=for-the-badge" alt="REST APIs">
 
 **Realtime & networking**
 
